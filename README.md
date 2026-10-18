@@ -5,6 +5,8 @@
 [![Language](https://img.shields.io/badge/Language-Kotlin-purple.svg)](https://kotlinlang.org)
 [![UI](https://img.shields.io/badge/UI-Jetpack%20Compose-blue.svg)](https://developer.android.com/jetpack/compose)
 
+I got sick and tired with clicking and tapping so I put everything on one page. These motherfuckers have billions + AI + servers + programmers + universities + alien tech + spirit knowledge from the owl dimension yet they can't make a simple and fast clock app where everything is located in the same place and can be controller in many different ways. Too much voodoo shit. Anyway, back to the AI's "slick" description.
+
 A sleek, unified Android time management suite built with **Jetpack Compose**. **OnePageClock** brings timers, world clocks, exact alarms, and a millisecond stopwatch into a single, cohesive, dark-themed dashboard—eliminating tab-switching friction while respecting battery and user privacy.
 
 ---
