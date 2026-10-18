@@ -72,7 +72,7 @@ The UI is built with a custom cyberpunk-minimalist theme:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/UnrealDanny/OnePageClock.git
+   git clone https://github.com/Neo-DannyDeTour/OnePageClock.git
    cd OnePageClock
    ```
 
